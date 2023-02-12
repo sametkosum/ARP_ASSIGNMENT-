@@ -2,10 +2,13 @@
 
 Base repository for the **second assignment** of the **_Advanced and Robot Programming_** course - **_UNIGE_**.
 
-Mustafa Melih Toslak 
+The project provides a basic implementation of a simulated vision system using _shared memory_, according to the requirements specified in the [PDF file of the assignment](second_assignment.pdf).
+
+Mustafa Melih Toslak   S5431021
+
 Ahmet Samet Kosum      S5635830
 
-Project's repository: [assignment 2]()
+The repository of project: [ARP_ASSINGMENT2](https://github.com/sametkosum/ARP_ASSIGNMENT2)
 
 ## The goal of assignment 
 
@@ -23,10 +26,14 @@ Master.c uses the fork and exec system calls to spawn ProcessA.c and ProcessB.c 
 
 In summary, the code demonstrates the use of shared memory and semaphores for interprocess communication between two separate programs and the use of the fork and exec system calls for spawning separate processes.
 
-The project provides a basic implementation of a simulated vision system using _shared memory_, according to the requirements specified in the [PDF file of the assignment](second_assignment.pdf).
 
 
-In the folder `/src` you will find three processes:
+![AR1](https://user-images.githubusercontent.com/117012520/218318270-031f26a6-99ed-44dc-ae5e-2f98b096d937.PNG)
+![ARP2](https://user-images.githubusercontent.com/117012520/218318275-ea471b31-7414-4656-b32d-52a2de05a6f9.PNG)
+![ARP3](https://user-images.githubusercontent.com/117012520/218318279-d954bebf-036a-45a1-ac26-156b8b12c1c8.PNG)
+![ARP5](https://user-images.githubusercontent.com/117012520/218318282-9153188c-aab7-478d-aaba-1badd5062d0a.PNG)
+![ARP6](https://user-images.githubusercontent.com/117012520/218318287-4f295af8-8beb-41d4-8491-506f6aa89567.PNG)
+
 
 ## *libbitmap* installation and usage
 To work with the bitmap library, you need to follow these steps:
